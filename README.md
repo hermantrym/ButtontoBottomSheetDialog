@@ -3,10 +3,10 @@
 Add the following dependencies below to your module build.gradle file:
 ```groovy:
 // material design
-implementation 'com.google.android.material:material:1.8.0-alpha02'
+implementation 'com.google.android.material:material:$latestversion'
 
 // rounded image view
-implementation 'com.makeramen:roundedimageview:2.3.0'
+implementation 'com.makeramen:roundedimageview:$latestversion'
 ```
 \
 \
