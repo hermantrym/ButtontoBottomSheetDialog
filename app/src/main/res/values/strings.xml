@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Sheet Dialog</string>
+    <string name="share">Share</string>
+    <string name="subscribe_on_my_channel">Subscribe on my channel</string>
+    <string name="lucas_moro">Lucas Moro</string>
+    <string name="subscribed">subscribed</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="share_channel">Share channel</string>
+</resources>
